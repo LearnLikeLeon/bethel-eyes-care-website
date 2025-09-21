@@ -100,7 +100,7 @@ export default function SectionDesProduits() {
                 <h2 className="text-slate-700">
                   Lunettes de Soleil avec ou sans Prescription
                 </h2>
-                <p className="mt-1 text-sm text-slate-400">Lisbon, Portugal</p>
+                <p className="mt-1 text-sm text-slate-400">Douala, Cameroun</p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$850</p>
@@ -161,7 +161,7 @@ export default function SectionDesProduits() {
                 <h2 className="text-slate-700">
                   Lentilles de Contact et Produits d’Entretien
                 </h2>
-                <p className="mt-1 text-sm text-slate-400">Lisbon, Portugal</p>
+                <p className="mt-1 text-sm text-slate-400">Douala, Cameroun</p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$450</p>
@@ -221,7 +221,7 @@ export default function SectionDesProduits() {
                 <h2 className="text-slate-700">
                   Produits pour Yeux Secs et Hygiène des Paupières
                 </h2>
-                <p className="mt-1 text-sm text-slate-400">Lisbon, Portugal</p>
+                <p className="mt-1 text-sm text-slate-400">Douala, Cameroun</p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$450</p>
@@ -279,9 +279,11 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Accessoires & Entretien</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Etuis de protection, Hommes, Femmes et Enfants
+                <h2 className="text-slate-700">
+                  Shana's Nails Spa ( Mobile Nails Services )
+                </h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -338,9 +340,11 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Couvre-oeil perforé</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Coque oculaire de protection, Homme
+                <h2 className="text-slate-700">
+                  Shana's Nails Spa ( Mobile Nails Services )
+                </h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -398,8 +402,12 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Optive collyre oeil sec</h2>
-                <p className="mt-1 text-sm text-slate-400">10 ml, Adulte</p>
+                <h2 className="text-slate-700">
+                  Shana's Nails Spa ( Mobile Nails Services )
+                </h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
+                </p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$450</p>
@@ -458,10 +466,10 @@ export default function SectionDesProduits() {
 
               <div className="mt-1 p-2">
                 <h2 className="text-slate-700">
-                  Avène démaquillant yeux douceur
+                  Shana's Nails Spa ( Mobile Nails Services )
                 </h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  125 ml, Yeux sensibles
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -522,9 +530,11 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Accessoires & Entretien</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Etuis de protection, Hommes, Femmes et Enfants
+                <h2 className="text-slate-700">
+                  Shana's African Hair Braiding ( Mobile Hair Services )
+                </h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -581,9 +591,11 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Couvre-oeil perforé</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Coque oculaire de protection, Homme
+                <h2 className="text-slate-700">
+                  Shana's African Hair Braiding ( Mobile Hair Services )
+                </h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -641,8 +653,12 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Optive collyre oeil sec</h2>
-                <p className="mt-1 text-sm text-slate-400">10 ml, Adulte</p>
+                <h2 className="text-slate-700">
+                  Shana's African Hair Braiding ( Mobile Hair Services )
+                </h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
+                </p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$450</p>
@@ -701,10 +717,10 @@ export default function SectionDesProduits() {
 
               <div className="mt-1 p-2">
                 <h2 className="text-slate-700">
-                  Avène démaquillant yeux douceur
+                  Shana's African Hair Braiding ( Mobile Hair Services )
                 </h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  125 ml, Yeux sensibles
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Hommes, Femmes et Enfants
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -765,9 +781,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Accessoires & Entretien</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Etuis de protection, Hommes, Femmes et Enfants
+                <h2 className="text-slate-700">Cacao</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Le cacao du continent, nous cultivons le cacao depuis 50 ans.
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -798,7 +814,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/agriculture_2.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/onions.jpg"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -824,9 +840,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Couvre-oeil perforé</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Coque oculaire de protection, Homme
+                <h2 className="text-slate-700">Onions</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Agriculture Bio
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -884,8 +900,10 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Optive collyre oeil sec</h2>
-                <p className="mt-1 text-sm text-slate-400">10 ml, Adulte</p>
+                <h2 className="text-slate-700">Regime de Plantains</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Agriculture, Bio
+                </p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$450</p>
@@ -916,7 +934,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/agriculture_4.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_agriculture/jus+de+mangue.jpg"
                   alt="black framed eyeglasses"
                   //   className="object-cover transition-transform duration-300 group-hover:scale-105"
                   width={500}
@@ -943,11 +961,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                  Avène démaquillant yeux douceur
-                </h2>
+                <h2 className="text-slate-700">Mangues</h2>
                 <p className="mt-1 text-sm text-slate-400">
-                  125 ml, Yeux sensibles
+                  Cultivées naturellement
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -1008,9 +1024,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Accessoires & Entretien</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Etuis de protection, Hommes, Femmes et Enfants
+                <h2 className="text-slate-700">Amapiano</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Vuli Gate
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -1067,9 +1083,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Couvre-oeil perforé</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Coque oculaire de protection, Homme
+                <h2 className="text-slate-700">Waterman</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Bienvenue à Youpwé
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -1127,8 +1143,10 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Optive collyre oeil sec</h2>
-                <p className="mt-1 text-sm text-slate-400">10 ml, Adulte</p>
+                <h2 className="text-slate-700">Plantain</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  African fries, DG
+                </p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$450</p>
@@ -1186,11 +1204,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                  Avène démaquillant yeux douceur
-                </h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  125 ml, Yeux sensibles
+                <h2 className="text-slate-700">Poisson braisé</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Rue de la Joie
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -1251,9 +1267,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Accessoires & Entretien</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Etuis de protection, Hommes, Femmes et Enfants
+                <h2 className="text-slate-700">Picasso Bar</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Bière Blonde, Glacée
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -1284,7 +1300,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/pression_2.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/Bi%C3%A8re+%C3%A0+pression/Bi%C3%A8re+%C3%A0+pression_1.jpg"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -1310,9 +1326,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Couvre-oeil perforé</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Coque oculaire de protection, Homme
+                <h2 className="text-slate-700">Tango</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  King Tapée Tapée
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -1370,8 +1386,10 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Optive collyre oeil sec</h2>
-                <p className="mt-1 text-sm text-slate-400">10 ml, Adulte</p>
+                <h2 className="text-slate-700">La Vraie Pression</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Le Goût du pays
+                </p>
 
                 <div className="mt-3 flex items-end justify-between">
                   <p className="text-lg font-bold text-blue-500">$450</p>
@@ -1402,7 +1420,7 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/pression_4.jpg"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_pression/Bi%C3%A8re+%C3%A0+pression/Bi%C3%A8re+%C3%A0+pression_2.jpg"
                   alt="black framed eyeglasses"
                   //   className="object-cover transition-transform duration-300 group-hover:scale-105"
                   width={500}
@@ -1429,11 +1447,9 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">
-                  Avène démaquillant yeux douceur
-                </h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  125 ml, Yeux sensibles
+                <h2 className="text-slate-700">Yoyo Bar</h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Bière Bien Tapée et Glacée
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
@@ -1489,18 +1505,23 @@ export default function SectionDesProduits() {
                     />
                   </svg>
 
-                  <button className="text-sm">Ajouter au panier</button>
+                  <button className="text-sm">Ça m&apos;intéresse</button>
                 </div>
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Accessoires & Entretien</h2>
-                <p className="mt-1 text-sm text-slate-400">
-                  Etuis de protection, Hommes, Femmes et Enfants
+                <h2 className="text-slate-700">
+                  Maison à louer (250,000 FCFA)
+                </h2>
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
+                  Japoma, Douala-Cameroun
+                </p>
+                <p className="mt-1 text-sm text-slate-400 italic ">
+                  Villa · 3 chambres · parking
                 </p>
 
                 <div className="mt-3 flex items-end justify-between">
-                  <p className="text-lg font-bold text-blue-500">$450</p>
+                  <p className="text-lg font-bold text-blue-500">new</p>
                   <div className="flex items-center space-x-1.5 rounded-lg bg-blue-500 px-4 py-1.5 text-white duration-100 hover:bg-blue-600">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -1517,7 +1538,7 @@ export default function SectionDesProduits() {
                       />
                     </svg>
 
-                    <button className="text-sm">Ajouter au panier</button>
+                    <button className="text-sm">Ça m&apos;intéresse</button>
                   </div>
                 </div>
               </div>
@@ -1548,7 +1569,7 @@ export default function SectionDesProduits() {
                     />
                   </svg>
 
-                  <button className="text-sm">Ajouter au panier</button>
+                  <button className="text-sm">Ça m&apos;intéresse</button>
                 </div>
               </div>
 
@@ -1556,7 +1577,7 @@ export default function SectionDesProduits() {
                 <h2 className="text-slate-700">
                   Maison à louer (350,000 FCFA)
                 </h2>
-                <p className="mt-1 text-sm text-slate-400">
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
                   Obobogo, Yaoundé-Cameroun
                 </p>
                 <p className="mt-1 text-sm text-slate-400 italic ">
@@ -1622,7 +1643,7 @@ export default function SectionDesProduits() {
                 <p className="mt-1 text-sm text-slate-400">
                   Rosebank, Cape Town
                 </p>
-                <p className="mt-1 text-sm text-slate-400 italic ">
+                <p className="mt-1 text-sm text-slate-400 italic font-bold ">
                   Duplex · 4 chambres · 2 salles de bain · parking · barrière
                 </p>
                 <p className="mt-1 text-sm text-slate-400 italic ">
@@ -1660,7 +1681,6 @@ export default function SectionDesProduits() {
                 <Image
                   src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_maison/maison_4.jpg"
                   alt="black framed eyeglasses"
-                  //   className="object-cover transition-transform duration-300 group-hover:scale-105"
                   width={500}
                   height={500}
                 />
@@ -1686,7 +1706,7 @@ export default function SectionDesProduits() {
 
               <div className="mt-1 p-2">
                 <h2 className="text-slate-700">Maison à vendre ($734,900)</h2>
-                <p className="mt-1 text-sm text-slate-400">
+                <p className="mt-1 text-sm italic font-bold text-slate-400">
                   Virginia Beach, USA
                 </p>
 

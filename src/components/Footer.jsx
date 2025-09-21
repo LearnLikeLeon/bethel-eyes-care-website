@@ -9,11 +9,11 @@ const socialLinks = [
     href: "#",
     label: "Twitter",
   },
-  {
-    icon: Github,
-    href: "#",
-    label: "GitHub",
-  },
+  // {
+  //   icon: Github,
+  //   href: "#",
+  //   label: "GitHub",
+  // },
   {
     icon: Linkedin,
     href: "#",
@@ -120,7 +120,12 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border/50 text-center text-sm text-muted-foreground">
           <p>
-            © {new Date().getFullYear()} Bethel Eyes care. All rights reserved.
+            Bethel Eyes Care - {`© ${new Date().getFullYear()}`} Clinique
+            Optique Privée - Tous droits réservés.
+          </p>
+          <p className="mt-2">
+            Ce site est maintenu par Belissima - Consultante Cloud et
+            Hébergement des sites internet.
           </p>
         </div>
       </div>
