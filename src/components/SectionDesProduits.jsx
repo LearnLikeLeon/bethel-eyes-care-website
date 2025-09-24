@@ -1267,7 +1267,7 @@ export default function SectionDesProduits() {
               </div>
 
               <div className="mt-1 p-2">
-                <h2 className="text-slate-700">Picasso Bar</h2>
+                <h2 className="text-slate-700">Forêt Bar</h2>
                 <p className="mt-1 text-sm italic font-bold text-slate-400">
                   Bière Blonde, Glacée
                 </p>

@@ -57,7 +57,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h3 className="text-xl font-serif font-bold text-foreground mb-4">
-              Bethel Eyes care
+              Belissima
             </h3>
             <p className="text-muted-foreground mb-4">Nos Horaires</p>
             <p className="text-muted-foreground mb-4">
