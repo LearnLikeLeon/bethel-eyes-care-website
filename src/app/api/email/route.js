@@ -21,7 +21,7 @@ export async function POST(request) {
     });
 
     // Send the email via the email API
-    const { data } = await emailNotification.emails.send({
+    const { data, error } = await emailNotification.emails.send({
       from: "Contactez-nous <form@womengreencloud.com>",
       to: "devgreencloud@gmail.com",
       subject: "Vous avez reçu une nouvelle soumission via votre site internet",
@@ -35,8 +35,7 @@ export async function POST(request) {
 
     // Return error response if something goes wrong
     return NextResponse.json({
-      error:
-        error instanceof Error ? error.message : "Une erreure est survenue",
+      error,
     });
   }
 }

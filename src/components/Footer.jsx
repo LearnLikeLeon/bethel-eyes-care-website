@@ -2,6 +2,7 @@ import { Github, Instagram, Linkedin, Twitter } from "lucide-react";
 import Link from "next/link";
 import { Input } from "./ui/input";
 import { Button } from "./ui/button";
+import { navItems } from "@/lib/constants";
 
 const socialLinks = [
   {
@@ -26,28 +27,28 @@ const socialLinks = [
   },
 ];
 
-const quickLinks = [
-  {
-    name: "Home",
-    href: "/",
-  },
-  {
-    name: "Categories",
-    href: "/categories",
-  },
-  {
-    name: "About",
-    href: "/about",
-  },
-  {
-    name: "Contact",
-    href: "/contact",
-  },
-  {
-    name: "Privacy",
-    href: "/privacy",
-  },
-];
+// const quickLinks = [
+//   {
+//     name: "Home",
+//     href: "/",
+//   },
+//   {
+//     name: "Categories",
+//     href: "/categories",
+//   },
+//   {
+//     name: "About",
+//     href: "/about",
+//   },
+//   {
+//     name: "Contact",
+//     href: "/contact",
+//   },
+//   {
+//     name: "Privacy",
+//     href: "/privacy",
+//   },
+// ];
 
 export default function Footer() {
   return (
@@ -88,11 +89,11 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Quick links */}
+          {/* Quick links using the navigation items */}
           <div>
-            <h4 className="font-semibold text-foreground mb-4">Quick Links</h4>
+            <h4 className="font-semibold text-foreground mb-4">Accès Rapide</h4>
             <ul className="space-y-2">
-              {quickLinks.map((link) => (
+              {navItems.map((link) => (
                 <li key={link.name}>
                   <Link
                     href={link.href}
@@ -107,13 +108,15 @@ export default function Footer() {
 
           {/* Newsletter */}
           <div>
-            <h4 className="font-semibold text-foreground mb-4">Stay Updated</h4>
+            <h4 className="font-semibold text-foreground mb-4">
+              Ne ratez aucune actualité
+            </h4>
             <p className="text-muted-foreground mb-4">
-              Subscribe to get the latest posts delivered to your inbox.
+              Inscrivez-vous à notre newsletter et recevez nos offres par email.
             </p>
             <div className="flex flex-col sm:flex-row gap-2">
-              <Input type="email" placeholder="Your email" />
-              <Button>Subscribe</Button>
+              <Input type="email" placeholder="Entrez votre adresse e-mail" />
+              <Button>S’abonner</Button>
             </div>
           </div>
         </div>

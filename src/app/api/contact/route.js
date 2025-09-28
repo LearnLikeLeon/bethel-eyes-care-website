@@ -22,8 +22,8 @@ export async function POST(req) {
   } catch (error) {
     // Handle validation errors (specific to mongoose validation errors)
     if (error instanceof mongoose.Error.ValidationError) {
-      const errorList = [];
-      for (const e in error.errors) {
+      let errorList = [];
+      for (let e in error.errors) {
         errorList.push(error.errors[e].message);
       }
       console.log(errorList);
