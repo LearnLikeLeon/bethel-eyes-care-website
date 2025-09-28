@@ -31,54 +31,57 @@ export const Email = ({ fullname, email, service, communication, message }) => {
             </Text>
 
             <Text>
-              <p style={{ fontSize: "1.125rem", color: "#71717a" }}>
+              <p className="text-lg text-zinc-300">
                 Hi, someone submitted a form with the following details:
               </p>
-              <ul
-                style={{
-                  display: "flex",
-                  flexDirection: "column",
-                  gap: "1rem",
-                  paddingLeft: 0,
-                  listStyle: "none",
-                }}
-              >
+              <ul className="flex flex-col space-y-4">
                 <li>
                   <strong>
-                    <i>Prospective client: </i>
-                  </strong>
+                    {" "}
+                    <i>Prospective client: </i>{" "}
+                  </strong>{" "}
                   {fullname}
                 </li>
+                <br></br>
                 <li>
                   <strong>
-                    <i>Email: </i>
+                    {" "}
+                    <i>Email: </i>{" "}
                   </strong>
-                  <a href={`mailto:${email}`} style={{ fontWeight: "500" }}>
+                  <a className="font-medium" href={`mailto:${email}`}>
+                    {" "}
                     {email}
-                  </a>
+                  </a>{" "}
                 </li>
+                <br></br>
                 <li>
                   <strong>
+                    {" "}
                     <i>Selected service: </i>
-                  </strong>
+                  </strong>{" "}
                   {service}
                 </li>
+                <br></br>
                 <li>
                   <strong>
-                    <i>Méthode de communication choisie: </i>
-                  </strong>
+                    {" "}
+                    <i>Méthode de communication choisie: </i>{" "}
+                  </strong>{" "}
                   {communication}
                 </li>
+                <br></br>
                 <li>
                   <strong>
-                    <i>Message: </i>
-                  </strong>
+                    {" "}
+                    <i>Message: </i>{" "}
+                  </strong>{" "}
                   {message}
                 </li>
+                <br></br>
               </ul>
 
               <Button
-                href="https://google.com"
+                href="https://womengreencloud.com"
                 style={{
                   background: "#000",
                   color: "#fff",
@@ -95,7 +98,8 @@ export const Email = ({ fullname, email, service, communication, message }) => {
               </p>
             </Text>
 
-            <Text style={{ marginTop: "1rem", color: "#71717a" }}>
+            <Text>
+              {" "}
               © Bethel Eyes Care - © {new Date().getFullYear()} Clinique
               Optique Privée - Tous droits réservés - Douala, Cameroun.
             </Text>
