@@ -13,8 +13,8 @@ const playfair = Playfair_Display({
 // You can optionally export metadata as a plain object or remove it if unused
 export const metadata = {
   title:
-    "Bethel Eyes Care | Eyes care Consultants | Consultation des yeaux à Douala, Cameroun",
-  description: "Soins des yeux exceptionels, voir net jusqu'à l'infini",
+    "Customized Web Hosting | Hébergement personnalisé de votre site internet | Consultation à Douala, Cameroun",
+  description: "Une platforme simple et rapide pour votre site internet.",
 };
 
 export default function RootLayout({ children }) {

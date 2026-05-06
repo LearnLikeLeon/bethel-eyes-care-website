@@ -16,14 +16,14 @@ export default function HeroSection() {
             className="text-center lg:text-left"
           >
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-foreground leading-tight mb-6">
-              Bethel Eyescare{" "}
+              Demo website (Proof of Concept){" "}
               <span className="text-primary italic">
-                Votre santé visuelle, notre priorité.
+                Une représentation visuelle de votre site une fois déployé.
               </span>
             </h1>
 
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl">
-              Chez Bethel Eyes care, nous croyons que chaque regard mérite une
+              Chez Belissima, nous croyons que chaque regard mérite une
               attention exceptionnelle. Depuis 2022, notre équipe d’experts en
               soins oculaires vous accompagne avec professionnalisme,
               bienveillance et technologie de pointe, pour prendre soin de vos
