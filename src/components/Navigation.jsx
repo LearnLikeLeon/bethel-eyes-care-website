@@ -11,7 +11,7 @@ export default function Navigation() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-xl font-serif font-bold text-foreground">
-              Belissima
+              AfrID X Cape Town
             </h1>
           </div>
 
