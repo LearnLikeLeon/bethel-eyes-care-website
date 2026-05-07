@@ -20,8 +20,8 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  // src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_paire+de+lunettes/lunette_1.jpg"
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/AfrID+X_Cape+Town/Handcrafted+Oven+Gloves.png"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_paire+de+lunettes/lunette_1.jpg"
+                  // src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/AfrID+X_Cape+Town/Handcrafted+Oven+Gloves.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}
@@ -79,8 +79,8 @@ export default function SectionDesProduits() {
             <a href="#">
               <div className="relative flex items-end overflow-hidden rounded-xl">
                 <Image
-                  // src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_paire+de+lunettes/lunette_2.jpg"
-                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/AfrID+X_Cape+Town/Original+Shwesshwe+handmade+backpack.png"
+                  src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/Bethel+Eyes+Care_Site+Internet/Les+images+du+site+internet/Produits/Produits_paire+de+lunettes/lunette_2.jpg"
+                  // src="https://maria-bucket-1.s3.us-east-1.amazonaws.com/D%C3%A9veloppeuse+Web/Les+plateformes+web+de+ma+client%C3%A8le/AfrID+X_Cape+Town/Original+Shwesshwe+handmade+backpack.png"
                   alt="black framed eyeglasses"
                   width={500}
                   height={500}

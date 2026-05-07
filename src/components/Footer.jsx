@@ -123,8 +123,8 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border/50 text-center text-sm text-muted-foreground">
           <p>
-            AfrID X Cape Town - {`© ${new Date().getFullYear()}`} Clinique
-            Optique Privée - Tous droits réservés.
+            Belissima - {`© ${new Date().getFullYear()}`} Clinique Optique
+            Privée - Tous droits réservés.
           </p>
           <p className="mt-2">
             Ce site est maintenu par Belissima - Consultante Cloud et
